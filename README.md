@@ -1,17 +1,17 @@
 <h1 align="center"> I'm Nitin Tony Paul</h1>
-<h3 align="center">A passionate programmer from India</h3>
+<h3 align="center">A human being from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitintonypaul&label=Profile%20views&color=0e75b6&style=flat" alt="nitintonypaul" /> </p>
 
-- 🌱 I’m currently learning **Swift, Java, C**
+- I’m currently learning **Swift, Java, C**
 
-- 👨‍💻 All of my projects are available at [https://nitintonypaul.github.io/portfolio/](https://nitintonypaul.github.io/portfolio/)
+- And here's my website [https://nitintonypaul.github.io/portfolio/](https://nitintonypaul.github.io/portfolio/)
 
-- 💬 Ask me about **Python, C++**
+- You can ask me about **Python, C++**
 
-- 📫 How to reach me **nitintonypaul@gmail.com**
+- Reach me via **nitintonypaul@gmail.com**
 
-- ⚡ Fun fact **I am disciplined (even though people don't think so)**
+- Something about me: **I am very disciplined**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
