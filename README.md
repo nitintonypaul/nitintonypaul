@@ -11,7 +11,6 @@
 
 - Reach me via **nitintonypaul@gmail.com**
 
-- Something about me: **I am very disciplined**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
