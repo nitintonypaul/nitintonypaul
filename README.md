@@ -4,7 +4,7 @@
 
 - I’m currently learning **Kotlin and Java**
 
-- And here's my website [https://nitintonypaul.github.io/portfolio/](https://nitintonypaul.github.io/portfolio/)
+- And here's my [website](https://nitintonypaul.github.io/portfolio/)
 
 - You can ask me about **Python, C++, HTML, CSS**
 
