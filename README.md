@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitintonypaul&label=Profile%20views&color=0e75b6&style=flat" alt="nitintonypaul" /> </p>
 
-- I’m currently learning **Kotlin and Java**
+- I’m currently learning **Dart** and **Java**
 
 - Here's my [website](https://nitintonypaul.github.io/portfolio/)
 
