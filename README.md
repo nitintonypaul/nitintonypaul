@@ -12,6 +12,6 @@
 
 <p align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,css,js,dart,bash,tailwind,tensorflow,blender" />
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,css,js,dart,bash,tailwind,tensorflow,alpinejs,blender" />
   </a>
 </p>
