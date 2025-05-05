@@ -2,7 +2,7 @@
 
 - Studies at **Model Engineering College.**
 
-- Currently learning **Dart** and **Java.**
+- Currently learning **GSAP** and **Java.**
 
 - Find me [here](https://nitintonypaul.github.io/portfolio/).
 
@@ -12,6 +12,6 @@
 
 <p align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,css,js,dart,bash,tailwind,flutter,tensorflow,blender" />
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,css,js,dart,bash,tailwind,tensorflow,blender" />
   </a>
 </p>
