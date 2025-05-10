@@ -2,7 +2,7 @@
 
 - Studies at **Model Engineering College.**
 
-- Currently learning **GSAP** and **Java.**
+- Currently learning **Qiskit** and **Java.**
 
 - Find me [here](https://nitintonypaul.github.io/portfolio/).
 
