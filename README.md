@@ -21,7 +21,8 @@
   <h3>Expertise:</h3>
   <p align="center">
     <a>
-      <img src="https://skillicons.dev/icons?i=python,c,cpp,css,js,dart,bash,tailwind,tensorflow,blender" />
+      <img src="https://skillicons.dev/icons?i=python,c,cpp,css,js" /><br>
+      <img src="https://skillicons.dev/icons?i=dart,bash,tailwind,mysql,blender" />
     </a>
   </p>
 
