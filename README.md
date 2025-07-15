@@ -8,5 +8,5 @@
   <h3>Expertise:</h3>
   <a>
   <img src="https://skillicons.dev/icons?i=python,c,cpp,css,js" />
-  <img src="https://skillicons.dev/icons?i=java,bash,tailwind,mysql,blender" />
+  <img src="https://skillicons.dev/icons?i=java,bash,r,mysql,blender," />
   </a>
